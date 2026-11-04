@@ -12,39 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Neyla =====
-[1]Neyla       |07:31:21 | 03-11-2026| login OK @neylayunda | score=2800 rank=2689
-[1]Neyla       |07:31:21 | 03-11-2026| serverTime=2026-11-03T07:31:21.000Z local=2026-11-03T07:31:21.807Z
+[1]Neyla       |07:13:01 | 04-11-2026| login OK @neylayunda | score=2840 rank=2656
+[1]Neyla       |07:13:01 | 04-11-2026| serverTime=2026-11-04T07:13:01.000Z local=2026-11-04T07:13:01.134Z
 --> [1]Neyla menjalankan: Claim Daily
-[1]Neyla       |07:31:23 | 03-11-2026| daily: OK +10 poin score=2810
---> [1]Neyla menjalankan: Auto All Tasks (3 pending)
-[1]Neyla       |07:31:24 | 03-11-2026| [1/3] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/neylayunda/status/2117519530512502451
-[1]Neyla       |07:31:24 | 03-11-2026| delay 10s...
-[1]Neyla       |07:31:38 | 03-11-2026| [2/3] b7ad33b1 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/neylayunda/status/2117519571548954696
-[1]Neyla       |07:31:38 | 03-11-2026| delay 10s...
-[1]Neyla       |07:31:50 | 03-11-2026| [3/3] b7f716d0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/neylayunda/status/2117519657979694217
-[1]Neyla       |07:31:50 | 03-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Neyla       |07:31:52 | 03-11-2026| [1/1] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117219978491654 | proof=https://x.com/neylayunda/status/2117519728674662642
+[1]Neyla       |07:13:02 | 04-11-2026| daily: OK +10 poin score=2850
+--> [1]Neyla menjalankan: Auto All Tasks (2 pending)
+[1]Neyla       |07:13:04 | 04-11-2026| [1/2] ba012859 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211757419682197 | proof=https://x.com/neylayunda/status/2117877514362243003
+[1]Neyla       |07:13:04 | 04-11-2026| delay 10s...
+[1]Neyla       |07:13:16 | 04-11-2026| [2/2] 6608dad0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211757419682197 | proof=https://x.com/neylayunda/status/2117877354421517088
+[1]Neyla       |07:13:16 | 04-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Neyla       |07:13:18 | 04-11-2026| [1/1] ba012859 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117574196821975 | proof=https://x.com/neylayunda/status/2117877246840133455
 --> [1]Neyla menjalankan: Watch Anime
-[1]Neyla       |07:31:52 | 03-11-2026| watch: semua video sudah completed
+[1]Neyla       |07:13:19 | 04-11-2026| watch: semua video sudah completed
 --> [1]Neyla menjalankan: Read Article
-[1]Neyla       |07:31:54 | 03-11-2026| news: 34/34 artikel selesai dibaca
-[1]Neyla       |07:31:55 | 03-11-2026| mint eligibility: {"userId":"1780664044682383360","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@neylaayunda","status":"submitted","revision":"12dfd519-b508-429e-9226-77c79f88db
-[1]Neyla       |07:31:55 | 03-11-2026| news: semua artikel sudah dibaca
+[1]Neyla       |07:13:20 | 04-11-2026| news: 34/34 artikel selesai dibaca
+[1]Neyla       |07:13:21 | 04-11-2026| mint eligibility: {"userId":"1780664044682383360","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@neylaayunda","status":"submitted","revision":"12dfd519-b508-429e-9226-77c79f88db
+[1]Neyla       |07:13:21 | 04-11-2026| news: semua artikel sudah dibaca
 --> [1]Neyla menjalankan: Quiz Anime
 --> [1]Neyla menjalankan: Music Missions (realtime, bisa lama!)
-[1]Neyla       |07:31:59 | 03-11-2026| music: kedua misi sudah tercapai, stop
-[1]Neyla       |07:31:59 | 03-11-2026| mission music-listens-10: sudah diklaim
-[1]Neyla       |07:31:59 | 03-11-2026| mission music-minutes-30: sudah diklaim
-[1]Neyla       |07:31:59 | 03-11-2026| mission anime-completed-3: sudah diklaim
+[1]Neyla       |07:13:24 | 04-11-2026| music: kedua misi sudah tercapai, stop
+[1]Neyla       |07:13:24 | 04-11-2026| mission music-listens-10: sudah diklaim
+[1]Neyla       |07:13:24 | 04-11-2026| mission music-minutes-30: sudah diklaim
+[1]Neyla       |07:13:24 | 04-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Neyla menjalankan: Claim Missions
-[1]Neyla       |07:32:00 | 03-11-2026| mission music-listens-10: sudah diklaim
-[1]Neyla       |07:32:00 | 03-11-2026| mission music-minutes-30: sudah diklaim
-[1]Neyla       |07:32:00 | 03-11-2026| mission anime-completed-3: sudah diklaim
+[1]Neyla       |07:13:25 | 04-11-2026| mission music-listens-10: sudah diklaim
+[1]Neyla       |07:13:25 | 04-11-2026| mission music-minutes-30: sudah diklaim
+[1]Neyla       |07:13:25 | 04-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Neyla menjalankan: Check Eligibility
 
 --- eligibility [1]Neyla ---
-  @neylayunda | score=2800 rank=2689
-  tasks    [###############-----] 8/11
+  @neylayunda | score=2840 rank=2656
+  tasks    [##########----------] 2/4
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -55,17 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Neyla menjalankan: Read Manga
-[1]Neyla       |07:32:03 | 03-11-2026| manga: 0/13 chapter belum completed
+[1]Neyla       |07:13:29 | 04-11-2026| manga: 0/13 chapter belum completed
 --> [1]Neyla menjalankan: Get Gift
-[1]Neyla       |07:32:07 | 03-11-2026| gift: 3/9 belum diterima
-[1]Neyla       |07:32:08 | 03-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Neyla       |07:32:11 | 03-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Neyla       |07:32:14 | 03-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Neyla       |07:13:31 | 04-11-2026| gift: 3/9 belum diterima
+[1]Neyla       |07:13:32 | 04-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Neyla       |07:13:34 | 04-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Neyla       |07:13:38 | 04-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Neyla menjalankan: Setup Profile
-[1]Neyla       |07:32:16 | 03-11-2026| profile: bio="https://x.com/neylayunda" fav=oshi rewardAt=1791691989
-[1]Neyla       |07:32:16 | 03-11-2026| profile: bonus sudah diklaim, skip
+[1]Neyla       |07:13:40 | 04-11-2026| profile: bio="https://x.com/neylayunda" fav=oshi rewardAt=1791691989
+[1]Neyla       |07:13:40 | 04-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Neyla menjalankan: Bind Wallet
-[1]Neyla       |07:32:17 | 03-11-2026| wallet: sudah terikat EvLVYtD7oD... (solana)
+[1]Neyla       |07:13:41 | 04-11-2026| wallet: sudah terikat EvLVYtD7oD... (solana)
 
 == RINGKASAN ==
-- Neyla: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Neyla: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
